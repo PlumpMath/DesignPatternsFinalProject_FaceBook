@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FaceBookDPatterns.FilterableCollection&lt;T&gt;">
+    <Position X="1.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAARAAAACAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FilterableCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FaceBookDPatterns.CollectionFilterVisitor&lt;T&gt;">
+    <Position X="7" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAABAAAAAQAAAAAABAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollectionFilterVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FaceBookDPatterns.IFilterableCollection&lt;T&gt;">
+    <Position X="4" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAARAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IFilterableCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
